@@ -3,7 +3,7 @@
 
 ## Running
 1. Install [Docker](https://docs.docker.com/install/);
-2. On Terminal run
+2. On Terminal run:
 ```sh
 docker-compose up
 ```
