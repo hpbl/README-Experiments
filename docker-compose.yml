@@ -6,4 +6,4 @@ services:
             - '8888:8888'
         volumes:
             - '$PWD:/home/jovyan/workspace'
-        image: jupyter/scipy-notebook
+        image: hpbl/readme-notebook
