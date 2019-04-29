@@ -8,8 +8,8 @@
 docker-compose up
 ```
 3. Open the notebook's URL:
-  1. if already logged in: https://localhost:8888;
-  2. else: the URL that is logged to the Terminal;
+    - if already logged in: https://localhost:8888;
+    - else: the URL that is logged to the Terminal;
 
 
 ## Author
