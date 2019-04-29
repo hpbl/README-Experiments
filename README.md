@@ -3,4 +3,4 @@
 
 ## Running
 1. Install [Docker](https://docs.docker.com/install/);
-2. docker run -p 8888:8888 -v ~:/home/jovyan/workspace jupyter/scipy-notebook
+2. docker run -p 8888:8888 -v "$PWD":/home/jovyan/workspace jupyter/scipy-notebook
