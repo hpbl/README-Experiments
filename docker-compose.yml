@@ -1,0 +1,9 @@
+# docker run -p 8888:8888 -v "$PWD":/home/jovyan/workspace jupyter/scipy-notebook
+version: '3'
+services:
+    scipy-notebook:
+        ports:
+            - '8888:8888'
+        volumes:
+            - '$PWD:/home/jovyan/workspace'
+        image: jupyter/scipy-notebook
