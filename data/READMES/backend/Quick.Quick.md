@@ -85,8 +85,6 @@ Similar to projects using Quick, it would be nice to hear why people use Quick a
 
 Have something positive to say about Quick (or Nimble)? If yes, [provide a testimonial here](https://github.com/Quick/Quick/wiki/Who-uses-Quick).
 
-###
-
 
 ## License
 
